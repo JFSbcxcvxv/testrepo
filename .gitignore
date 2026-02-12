@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_02_2026_16_26_[Changes]/shelved.patch
+/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_02_2026_16_26__Changes_.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_02_2026_16_26_[Changes]/shelved.patch
